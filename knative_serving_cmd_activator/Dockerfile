@@ -1,0 +1,3 @@
+# 0.26.0
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:8619f871364463cd821a7324636686b6d835ca65c3d671fb8c141b8437fd2a0b
+MAINTAINER ljp
